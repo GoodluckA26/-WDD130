@@ -1,0 +1,57 @@
+h1, h2 {
+    font-family: 'Georgia', serif;
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.9rem;
+    line-height: 20px;
+}
+h1 {
+    font-size: 1.4rem;
+    margin: 0.67em 0;
+    color: white;
+    text-shadow: 2px 2px lightgray; 
+    background-color:black;
+    width: 1000px;
+    line-height: 60px;
+    margin-left: 120px; 
+    ext-align: center;
+}
+h3 {
+    font-family: 'Georgia', serif;
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.1rem;
+}
+.caption {
+    position: relative;
+    left: 26%;    
+}
+.temple-info {
+    font-family: 'Arial', sans-serif;
+    font-size: 1.2rem;
+    position: relative;
+    background-color: lightgray;
+    width: 600px;
+    margin-left: 290px;
+}
+.visiting-info {
+    font-family: 'Arial', sans-serif;
+    font-size: 1.2rem;
+    display: block;
+    background-color: lightgray;
+    width: 600px;
+    margin-left: 290px;
+}
+footer {
+    font-family: 'Arial', sans-serif;
+    font-size: 1.4rem;
+    margin: 0.67em 0;
+    color: white;
+    background-color: black;
+    width: 1000px;
+    line-height: 60px;
+    margin-left: 120px;
+    text-align: center;
+}
